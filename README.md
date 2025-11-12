@@ -48,7 +48,11 @@ Si vous voulez éditer le projet :
 - Visual Studio (avec le workload `.NET desktop development`)  
 
 ### 2. Cloner le dépôt
+```git
+git clone https://github.com/PanDox42/winforms-gestion-caserne
+```
 
 ### 3. Lancer l'application 
 ```path
 'SAE A21-D21 - Projet Caserne\bin\Debug\SAE A21-D21 - Projet Caserne.exe'
+```
